@@ -1,0 +1,14 @@
+Links e acesso do curso devsuperio dia 14/03/2022
+
+
+https://github.com/Rodrigues-cloud/dsmovie
+ /c/projetos/dsmovie para comitar no github
+
+
+links:
+https://devsuperior.com.br/evento-sds
+https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1
+https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1?node-id=8%3A50
+
+https://getbootstrap.com/docs/4.0/layout/grid/
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
